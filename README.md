@@ -20,3 +20,4 @@ Aplikasi personal finance Extra Wallet, yang dibuat dengan menggunakan Java Mave
 ## Desain Sistem
 
 Untuk informasi lengkap tentang desain sistem dan rancangan awal, bisa dicek di [SDLC design system](sdlc/system-design.md)
+Beberapa perubahan mungkin akan dilakukan selama tahap pengembangan.
